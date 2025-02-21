@@ -9,8 +9,7 @@ Maze Runner is a real-time autonomous line-following robot designed for precise 
 https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 
 ## Features
-- PID-Based Line Tracking: Implements a Proportional-Integral-Derivative (PID) algorithm to enhance accuracy, improving path-following performance by 25%.
-  
+- PID-Based Line Tracking: Implements PID Controller algorithm to enhance accuracy.
 - PWM Motor Control: Uses an L293D Motor Driver Shield for smooth and efficient movement.
 - Adaptive Sensor Calibration: Optimized IR sensor noise filtering for better track adaptability.
 - Competition-Tested: Successfully participated in multiple competitions, earning recognition for innovation and performance.
