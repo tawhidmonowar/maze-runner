@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 - PWM Motor Control for smooth speed adjustments.
 
 ## Images  
-| ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615205751.jpg) | ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615206267.jpg) |
+| ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615205751.jpg) | ![image](https://github.com/user-attachments/assets/4f6b310e-5dba-4060-9ed3-250fea57dcca) |
 |---|---|
 
 ## How It Works
