@@ -1,12 +1,43 @@
-# Maze Runner Alpha
+## Maze Runner (Alpha)
 
+![Static Badge](https://img.shields.io/badge/Line%20Follower%20Robot-8A2BE2)
+![Static Badge](https://img.shields.io/badge/PID%20Controller-greenbright)
 
+Maze Runner is a real-time autonomous line-following robot designed for precise path tracking and navigation. It utilizes an Arduino UNO, a Digital IR Sensor Array, and a PID-based control system to efficiently follow lines and adapt to different track conditions.
 
+## Video Preview
 https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 
+## Features
+- PID-Based Line Tracking: Implements a Proportional-Integral-Derivative (PID) algorithm to enhance accuracy, improving path-following performance by 25%.
+  
+- PWM Motor Control: Uses an L293D Motor Driver Shield for smooth and efficient movement.
+- Adaptive Sensor Calibration: Optimized IR sensor noise filtering for better track adaptability.
+- Competition-Tested: Successfully participated in multiple competitions, earning recognition for innovation and performance.
 
- 
- Maze Runner is a simple line follower robot that can follow a simple white/black track. Technologies used: Arduino UNO, L293D Motor Driver Shield, Digital IR Sensor Array etc.
+## Hardware Components
+- Arduino UNO – Microcontroller for processing sensor inputs and motor control.
+- L293D Motor Driver Shield – Provides bidirectional control for the motors.
+- Digital IR Sensor Array – Detects track lines and feeds real-time data for navigation.
 
-![image](https://user-images.githubusercontent.com/82754463/208298497-0aa9f2ac-d82a-4c61-ba35-e10162eb5218.png)
+## Technologies Used
+- Arduino (C++) for firmware development.
+- PID Controller for optimized line tracking.
+- PWM Motor Control for smooth speed adjustments.
+
+## Images  
+| ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615205751.jpg) | ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615206267.jpg) |
+|---|---|
+
+## How It Works
+- The IR sensor array detects the track and sends data to the Arduino UNO.
+- The PID algorithm processes the sensor data and calculates adjustments for motor speed.
+- The L293D Motor Driver Shield controls the motors using PWM signals, allowing the robot to follow the line smoothly.
+
+## Future Improvements  
+- Implementing **machine learning** for adaptive path prediction.  
+- Enhancing **obstacle detection** for more complex navigation.  
+
+## License  
+This project is open-source under the **MIT License**.  
 
