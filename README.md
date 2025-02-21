@@ -36,7 +36,9 @@ https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 
 ## Future Improvements  
 - Implementing **machine learning** for adaptive path prediction.  
-- Enhancing **obstacle detection** for more complex navigation.  
+- Enhancing **obstacle detection** for more complex navigation.
+- Integrating **computer vision** for advanced path recognition and decision-making.  
+- Developing **maze-solving algorithms** for autonomous navigation in complex environments. 
 
 ## License  
 This project is open-source under the **MIT License**.  
