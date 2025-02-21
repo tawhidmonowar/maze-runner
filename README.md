@@ -9,8 +9,7 @@ Maze Runner is a real-time autonomous line-following robot designed for precise 
 https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 
 ## Features
-- PID-Based Line Tracking: Implements a Proportional-Integral-Derivative (PID) algorithm to enhance accuracy, improving path-following performance by 25%.
-  
+- PID-Based Line Tracking: Implements PID Controller algorithm to enhance accuracy.
 - PWM Motor Control: Uses an L293D Motor Driver Shield for smooth and efficient movement.
 - Adaptive Sensor Calibration: Optimized IR sensor noise filtering for better track adaptability.
 - Competition-Tested: Successfully participated in multiple competitions, earning recognition for innovation and performance.
@@ -26,7 +25,7 @@ https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 - PWM Motor Control for smooth speed adjustments.
 
 ## Images  
-| ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615205751.jpg) | ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615206267.jpg) |
+| ![image](https://github.com/tawhidmonowar/maze-runner/blob/main/image/1668615205751.jpg) | ![image](https://github.com/user-attachments/assets/4f6b310e-5dba-4060-9ed3-250fea57dcca) |
 |---|---|
 
 ## How It Works
@@ -36,7 +35,9 @@ https://github.com/user-attachments/assets/a39be2a8-71a3-485b-b143-e1acad353426
 
 ## Future Improvements  
 - Implementing **machine learning** for adaptive path prediction.  
-- Enhancing **obstacle detection** for more complex navigation.  
+- Enhancing **obstacle detection** for more complex navigation.
+- Integrating **computer vision** for advanced path recognition and decision-making.  
+- Developing **maze-solving algorithms** for autonomous navigation in complex environments. 
 
 ## License  
 This project is open-source under the **MIT License**.  
