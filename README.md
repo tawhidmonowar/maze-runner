@@ -1,5 +1,6 @@
 ## Maze Runner (Alpha)
 
+![Static Badge](https://img.shields.io/badge/Arduino-%23009baa)
 ![Static Badge](https://img.shields.io/badge/Line%20Follower%20Robot-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/PID%20Controller-greenbright)
 
